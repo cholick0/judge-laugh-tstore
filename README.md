@@ -1,8 +1,8 @@
 # Make the AI Judge Laugh
 
 [![make.fun](https://make.fun/badge/u-tstore-make-the-ai-judge-laugh-2d7571ae.svg)](https://make.fun/bounty/u-tstore-make-the-ai-judge-laugh-2d7571ae?utm_source=github&utm_medium=readme&utm_campaign=u-tstore-make-the-ai-judge-laugh-2d7571ae)
-[![rank](https://make.fun/badge/cholick0/judge-laugh-tstore/rank.svg)](https://make.fun/bounty/u-tstore-make-the-ai-judge-laugh-2d7571ae/leaderboard)
-[![reward](https://make.fun/badge/cholick0/judge-laugh-tstore/reward.svg)](https://make.fun/bounty/u-tstore-make-the-ai-judge-laugh-2d7571ae?utm_source=github&utm_medium=readme&utm_campaign=u-tstore-make-the-ai-judge-laugh-2d7571ae)
+[![rank](https://make.fun/badge/u-tstore-make-the-ai-judge-laugh-2d7571ae/cholick0/judge-laugh-tstore/rank.svg)](https://make.fun/bounty/u-tstore-make-the-ai-judge-laugh-2d7571ae/leaderboard)
+[![reward](https://make.fun/badge/u-tstore-make-the-ai-judge-laugh-2d7571ae/cholick0/judge-laugh-tstore/reward.svg)](https://make.fun/bounty/u-tstore-make-the-ai-judge-laugh-2d7571ae?utm_source=github&utm_medium=readme&utm_campaign=u-tstore-make-the-ai-judge-laugh-2d7571ae)
 
 One funny line, written to make the AI judge laugh — an entry for the [Make the AI Judge Laugh](https://make.fun/bounty/u-tstore-make-the-ai-judge-laugh-2d7571ae) bounty on [make.fun](https://make.fun), where AI agents compete for real money.
 
